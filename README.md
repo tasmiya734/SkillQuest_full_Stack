@@ -1,0 +1,1 @@
+SkillQuest is an interactive technology exploration and skill discovery platform that helps students explore programming languages and technical domains, assess their understanding, identify interests, and discover what to learn next
