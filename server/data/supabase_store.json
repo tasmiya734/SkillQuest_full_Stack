@@ -1,0 +1,69 @@
+{
+  "auth_users": [],
+  "auth_sessions": {
+    "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVmMWRkMDhlLWI4OGYtNDFmNS04MjljLTdmYWYyMWEwZDU5MyIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rqenl1em1ydmN0andwYnl0dWhiLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJkN2U0MjQ1Ny04NTUyLTQ3YWItOWRjMS1kZDNhMmU5ZmUwOGIiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzkxMjgxNjAzLCJpYXQiOjE3OTEyNzgwMDMsImVtYWlsIjoidGVzdC5zdHVkZW50LjE3OTEyNzgwMDI3OTBAY29sbGVnZS5lZHUiLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImFjYWRlbWljX3llYXIiOiJTWSIsImNvbGxlZ2UiOiJEZXBhcnRtZW50IG9mIENvbXB1dGVyIFNjaWVuY2UiLCJkaXZpc2lvbiI6IkEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiQWFyYXYgU2hhcm1hIn0sInJvbGUiOiJhdXRoZW50aWNhdGVkIiwiYWFsIjoiYWFsMSIsImFtciI6W3sibWV0aG9kIjoicGFzc3dvcmQiLCJ0aW1lc3RhbXAiOjE3OTEyNzgwMDN9XSwic2Vzc2lvbl9pZCI6IjcyOGU2NGMzLWU2MjUtNDVjMS04N2Y2LTNhZDA4NWYyY2FhYiIsImlzX2Fub255bW91cyI6ZmFsc2V9.C9A9k5BjtZMgf4uSGQO0s5Iw84xNgpT6552loutvIW61drm6BwQdBw8zi-p3nbFdO15vQA1INtDH3xYg2T1FZQ": {
+      "user_id": "d7e42457-8552-47ab-9dc1-dd3a2e9fe08b",
+      "email": "test.student.1791278002790@college.edu",
+      "created_at": "2026-10-06T09:13:23.601Z"
+    },
+    "sqjwt.eyJpZCI6IjY1MGVhMDU4LWU5OWQtNDMzMS1iMzQwLTg2ZWMwYjA3OTI2NSIsImVtYWlsIjoiZ29vZ2xlLnN0dWRlbnQuMTc5MTI3ODAwNDAyN0BnbWFpbC5jb20iLCJmdWxsTmFtZSI6IlByaXlhIFBhdGVsIn0.s5PkBYZOh2TMagInq6K-c96udO4XoxXw6saZXxCDgXs": {
+      "user_id": "650ea058-e99d-4331-b340-86ec0b079265",
+      "email": "google.student.1791278004027@gmail.com",
+      "created_at": "2026-10-06T09:13:24.605Z"
+    },
+    "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVmMWRkMDhlLWI4OGYtNDFmNS04MjljLTdmYWYyMWEwZDU5MyIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rqenl1em1ydmN0andwYnl0dWhiLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJkN2U0MjQ1Ny04NTUyLTQ3YWItOWRjMS1kZDNhMmU5ZmUwOGIiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzkxMjgxNjA0LCJpYXQiOjE3OTEyNzgwMDQsImVtYWlsIjoidGVzdC5zdHVkZW50LjE3OTEyNzgwMDI3OTBAY29sbGVnZS5lZHUiLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImFjYWRlbWljX3llYXIiOiJTWSIsImNvbGxlZ2UiOiJEZXBhcnRtZW50IG9mIENvbXB1dGVyIFNjaWVuY2UiLCJkaXZpc2lvbiI6IkEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiQWFyYXYgU2hhcm1hIn0sInJvbGUiOiJhdXRoZW50aWNhdGVkIiwiYWFsIjoiYWFsMSIsImFtciI6W3sibWV0aG9kIjoicGFzc3dvcmQiLCJ0aW1lc3RhbXAiOjE3OTEyNzgwMDR9XSwic2Vzc2lvbl9pZCI6ImZjNTU4OWQzLWFmZjUtNDYzNC1hY2NmLWQzZGRhMjViZTQwZCIsImlzX2Fub255bW91cyI6ZmFsc2V9.Yn0ccTWUpNdPOQAv37fuQpNHz-EwlD9nfU5n4dGNGXr6Z59i588ImoX2IMsBD_nowJTamVK0KVQRroz2Nwh2jQ": {
+      "user_id": "d7e42457-8552-47ab-9dc1-dd3a2e9fe08b",
+      "email": "test.student.1791278002790@college.edu",
+      "created_at": "2026-10-06T09:13:24.939Z"
+    },
+    "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVmMWRkMDhlLWI4OGYtNDFmNS04MjljLTdmYWYyMWEwZDU5MyIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rqenl1em1ydmN0andwYnl0dWhiLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiIxN2EwMDJmMi02YTEyLTQ2ODItYjU5MS0zOTg2ZjlmMzVlODYiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzkxMjgxNjUyLCJpYXQiOjE3OTEyNzgwNTIsImVtYWlsIjoicmVwZWF0LnN0dWRlbnRAY29sbGVnZS5lZHUiLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImFjYWRlbWljX3llYXIiOiJGWSIsImNvbGxlZ2UiOiJDUyBJbnN0aXR1dGUiLCJkaXZpc2lvbiI6IkIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiUm9oYW4gTWVodGEifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc5MTI3ODA1Mn1dLCJzZXNzaW9uX2lkIjoiODhjNGY2ZDYtMWI4YS00ZGY4LWE3Y2ItOThjZGI2MGM2M2IzIiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.axnX74vm8ZvDYKanIAV-95xvK0J2KubZAVFUpHnPLldaoPqHOEC3BJOSRrEAyIcF9xbsontu6aLRztaUxWCOMA": {
+      "user_id": "17a002f2-6a12-4682-b591-3986f9f35e86",
+      "email": "repeat.student@college.edu",
+      "created_at": "2026-10-06T09:14:12.741Z"
+    },
+    "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVmMWRkMDhlLWI4OGYtNDFmNS04MjljLTdmYWYyMWEwZDU5MyIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rqenl1em1ydmN0andwYnl0dWhiLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiIxN2EwMDJmMi02YTEyLTQ2ODItYjU5MS0zOTg2ZjlmMzVlODYiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzkxMjgxNjUzLCJpYXQiOjE3OTEyNzgwNTMsImVtYWlsIjoicmVwZWF0LnN0dWRlbnRAY29sbGVnZS5lZHUiLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImFjYWRlbWljX3llYXIiOiJUWSIsImNvbGxlZ2UiOiJDUyBJbnN0aXR1dGUiLCJkaXZpc2lvbiI6IkEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiUm9oYW4gTWVodGEifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc5MTI3ODA1M31dLCJzZXNzaW9uX2lkIjoiZWQ0MWFkNzEtM2NmMC00MjU2LWFkYzktZTk5NTkyZjhlYmY4IiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.bj_UJKXOTMa8WrMpKe2Dn6LtwjJ26M3W7dbkd97RV5QUpjHerUWfxolzYQEuRD2awzIWzxsvk60uf6zDSijQGg": {
+      "user_id": "17a002f2-6a12-4682-b591-3986f9f35e86",
+      "email": "repeat.student@college.edu",
+      "created_at": "2026-10-06T09:14:13.990Z"
+    }
+  },
+  "students": [
+    {
+      "id": "e4d78d74-845c-44e5-b957-bd030bf8ad4e",
+      "auth_user_id": "9651b982-f554-435c-9a93-a1a581fedcde",
+      "full_name": "test1",
+      "email": "test1@gmail.com",
+      "academic_year": "FY",
+      "division": "A",
+      "college": "maharsahtra collleg",
+      "created_at": "2026-10-06T08:34:02.077Z",
+      "updated_at": "2026-10-06T08:34:02.077Z"
+    },
+    {
+      "id": "f4fad8db-99d2-4c77-ac13-56f23b531d94",
+      "auth_user_id": "d7e42457-8552-47ab-9dc1-dd3a2e9fe08b",
+      "full_name": "Aarav Sharma",
+      "email": "test.student.1791278002790@college.edu",
+      "academic_year": "SY",
+      "division": "A",
+      "college": "Department of Computer Science",
+      "created_at": "2026-10-06T09:13:23.603Z",
+      "updated_at": "2026-10-06T09:13:23.603Z"
+    },
+    {
+      "id": "d728ffe5-8122-4ecd-ac98-5d15c86e48be",
+      "auth_user_id": "17a002f2-6a12-4682-b591-3986f9f35e86",
+      "full_name": "Rohan Mehta",
+      "email": "repeat.student@college.edu",
+      "academic_year": "TY",
+      "division": "A",
+      "college": "CS Institute",
+      "created_at": "2026-10-06T09:14:12.741Z",
+      "updated_at": "2026-10-06T09:14:13.991Z"
+    }
+  ],
+  "assessments": [],
+  "student_answers": [],
+  "assessment_scores": [],
+  "game_attempts": []
+}

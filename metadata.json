@@ -1,0 +1,6 @@
+{
+  "name": "SkillQuest",
+  "description": "A technology exploration and skill discovery platform with Easy, Moderate, and Difficult learning levels to explore programming languages and technical domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
